@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: treasure-hunt-backend
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui/index.html
